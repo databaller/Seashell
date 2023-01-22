@@ -3,7 +3,7 @@ shell written in C
 
 ## Features
 
-###Reads commands in a loop
+1.Reads commands in a loop
 
 ###Runs commands without complete path names and handle arguments+options for commands
 
