@@ -3,18 +3,18 @@ shell written in C
 
 ## Features
 
-1.  [Reads commands in a loop]
+1.  Reads commands in a loop
 
-###Runs commands without complete path names and handle arguments+options for commands
+2.  Runs commands without complete path names and handle arguments+options for commands
 
-###Shows prompt with current working directory in the prompt
+3.  Shows prompt with current working directory in the prompt
 
-###Allows user to change the prompt to a particular string and revert back to CWD prompt
+4.  Allows user to change the prompt to a particular string and revert back to CWD prompt
 
-###Handles all possible user input errors 
+5.  Handles all possible user input errors 
 
-###Exits gracefully on typing "exit" or ctrl-D
+6.  Exits gracefully on typing "exit" or ctrl-D
 
-###Allows users to set a variable called PATH which is used for searching the list of executables
+7.  Allows users to set a variable called PATH which is used for searching the list of executables
 
-###Implement input redirection and output redirection
+8.  Implement input redirection and output redirection
