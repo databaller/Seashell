@@ -1,2 +1,4 @@
-# Seashell
+## Seashell
 shell written in C
+
+# Features
